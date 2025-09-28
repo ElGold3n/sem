@@ -1,5 +1,9 @@
-_Hello World_ this is my **read me file.**
+Project Failing at the moment.
 
-Unit 2 Lab CI workflow
+![workflow](https://github.com/ElGold3n/sem/actions/workflows/main.yml/badge.svg)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/ElGold3n/sem/main.yml?branch=master)
+
+[![LICENSE](https://img.shields.io/github/license/<github-username>/devops.svg?style=flat-square)](https://github.com/<github-username>/devops/blob/master/LICENSE)
+
+[![Releases](https://img.shields.io/github/release/<github-username>/devops/all.svg?style=flat-square)](https://github.com/<github-username>/devops/releases)
+
